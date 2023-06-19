@@ -2,10 +2,15 @@
 We implemented NBSync based on MXNET. Specifically, we added codes in the following files:
 
 src/kvstore/kvstore_dist.h
+
 src/kvstore/kvstore_dist_server.h
+
 src/kvstore/kvstore_local.h
+
 3rdparty/ps-lite/include/ps/kv_app.h
+
 3rdparty/ps-lite/include/internal/message.h
+
 3rdparty/ps-lite/src/van.cc
 
 ## Usage
